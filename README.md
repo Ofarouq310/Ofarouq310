@@ -9,10 +9,10 @@ Hi there! I'm Omar 👋
 </p> 
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -64,7 +64,7 @@ Hi there! I'm Omar 👋
 </div>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider2.png" alt="divider"/>
 </div> 
           
 <div align="center">
@@ -72,7 +72,7 @@ Hi there! I'm Omar 👋
 </div> 
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider2.png" alt="divider"/>
 
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ofarouq310&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
