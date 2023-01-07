@@ -40,6 +40,7 @@ Hi there! I'm Omar 👋
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/TDD-blue" /> 
         <img src="https://img.shields.io/badge/Jest-blue" /> 
+        <img src="https://img.shields.io/badge/Webpack-blue" /> 
         <img src="https://img.shields.io/badge/MySQL-blue" /> 
         <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
       </td>
