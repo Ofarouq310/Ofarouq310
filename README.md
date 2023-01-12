@@ -76,10 +76,10 @@ Hi there! I'm Omar 👋
 <div align="center">
   <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider2.png" alt="divider"/>
     
-<p align="center">
+<!-- <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=ofarouq310&show_icons=true&theme=tokyonight&hide_border=true" align="center" />
 </p>  
-
+ -->
  <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Ofarouq310&theme=tokyonight&hide_border=true">
 </p>
