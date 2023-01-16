@@ -82,7 +82,7 @@ Hi there! I'm Omar 👋
 </p>  
  -->
  <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Ofarouq310&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ofarouq310&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ Hi there! I'm Omar 👋
    -->
 </p>
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
+<h2 align="center"> Thanks for visiting my profile.</h2>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
