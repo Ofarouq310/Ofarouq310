@@ -13,7 +13,7 @@ Hi there! I'm Omar 👋
 </p>
 
 <div align="center">
-  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider8.png" alt="divider"/>
+  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider9.png" alt="divider"/>
 </div>
 
 <h3 align="center"><img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/code.gif" height="20"/> Tech & Tools</h3>
@@ -71,7 +71,7 @@ Hi there! I'm Omar 👋
 </div>
 
 <div align="center">
-  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider7.png" alt="divider"/>
+  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider10.png" alt="divider"/>
 </div> 
           
 <div align="center">
@@ -79,7 +79,7 @@ Hi there! I'm Omar 👋
 </div> 
 
 <div align="center">
-  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider7.png" alt="divider"/>
+  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider10.png" alt="divider"/>
     
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=ofarouq310&show_icons=true&theme=ayu-mirage&hide_border=true&card_width=493px" align="center" />
