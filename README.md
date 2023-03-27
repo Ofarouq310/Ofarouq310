@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/banner 3.png" /> 
+</div>
+
 <h1 align="center">
 Hi there! I'm Omar 👋
 
