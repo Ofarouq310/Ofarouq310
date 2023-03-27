@@ -82,7 +82,7 @@ Hi there! I'm Omar 👋
   <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider4.png" alt="divider"/>
     
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=ofarouq310&show_icons=true&theme=ayu-mirage&hide_border=true" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ofarouq310&show_icons=true&theme=ayu-mirage&hide_border=true&card_width=493px" align="center" />
 </p>  
  
  <p align = "center">
