@@ -13,7 +13,7 @@ Hi there! I'm Omar 👋
 </p>
 
 <div align="center">
-  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider9.png" alt="divider"/>
+  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider11.png" alt="divider"/>
 </div>
 
 <h3 align="center"><img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/code.gif" height="20"/> Tech & Tools</h3>
