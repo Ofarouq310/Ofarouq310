@@ -81,9 +81,9 @@ Hi there! I'm Omar 👋
 <div align="center">
   <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/divider10.png" alt="divider"/>
     
-<!-- <p align="center">
+<p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=ofarouq310&show_icons=true&theme=ayu-mirage&hide_border=true&card_width=493px" align="center" />
-</p>   -->
+</p>  
  
  <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ofarouq310&theme=ayu-mirage&hide_border=true">
