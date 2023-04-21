@@ -96,8 +96,8 @@ Hi there! I'm Omar 👋
   &nbsp;&nbsp;
   <a href="https://twitter.com/ofarouq310" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
-  
+<!--   <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+   -->
 </p>
 
 <h2 align="center"> Thanks for visiting my profile.</h2>
