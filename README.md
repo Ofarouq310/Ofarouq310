@@ -4,7 +4,7 @@
 
 <h1 align="center">
 Hi there! I'm Omar 👋
-
+ 
 <h3 align="center">Student at Microverse ✔ | Full-Stack Web Developer ✔
 </h3>
 
