@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/banner1-edited.png" />
 </div>
 
