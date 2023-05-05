@@ -2,7 +2,7 @@
 <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/banner1-edited.png" />
 </div>
 
-<h1 align="center">  
+<h1 align="center"> 
 Hi there! I'm Omar 👋
  
 <h3 align="center">Student at Microverse ✔ | Full-Stack Web Developer ✔
