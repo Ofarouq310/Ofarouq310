@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/banner1-edited.png" />
+<img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/banner1-edited.png" /> 
 </div>
 
 <h1 align="center"> 
