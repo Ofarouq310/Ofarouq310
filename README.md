@@ -5,11 +5,11 @@
 <h1 align="center"> 
 Hi there! I'm Omar 👋 
  
-<h3 align="center">Student at Microverse ✔ | Full-Stack Web Developer ✔
+<h3 align="center">Student at Microverse ✔ | Front-End Web Developer ✔
 </h3>
 
  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+Developer;Open+to+new+opportunities+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Front-End+Developer;Open+to+new+opportunities+...&center=true"></a>
 </p>
 
 <div align="center">
@@ -22,7 +22,6 @@ Hi there! I'm Omar 👋
   <table>
     <tr>
       <td valign="center" width="100px"><b>Frontend<b></td>
-      <td valign="center" width="100px"><b>Backend<b></td>
       <td valign="center" width="100px"><b>Dev<b></td>
     </tr>
     <tr>
@@ -36,19 +35,9 @@ Hi there! I'm Omar 👋
         <img src="https://img.shields.io/badge/SASS-blue" /> 
       </td>      
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Ruby-blue" /> 
-        <img src="https://img.shields.io/badge/Rails-blue" /> 
-        <img src="https://img.shields.io/badge/Node.js-blue" /> 
-<!--         <img src="https://img.shields.io/badge/Python-blue" />  -->
-<!--         <img src="https://img.shields.io/badge/Java-blue" /> -->
-      </td>
-      <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/ViteJS-blue" />
         <img src="https://img.shields.io/badge/Webpack-blue" /> 
         <img src="https://img.shields.io/badge/TDD-blue" /> 
-        <img src="https://img.shields.io/badge/Jest-blue" /> 
-        <img src="https://img.shields.io/badge/MySQL-blue" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
       </td>
     </tr>
   </table>
@@ -60,8 +49,6 @@ Hi there! I'm Omar 👋
     <tr>
      <td valign="center" align="center" width="300px">
        <img src="https://img.shields.io/badge/Adobe Photoshop-blue" /> 
-       <img src="https://img.shields.io/badge/Adobe After Effects-blue" /> 
-       <img src="https://img.shields.io/badge/Adobe Premiere Pro-blue" /> 
        <img src="https://img.shields.io/badge/Figma-blue" /> 
        <img src="https://img.shields.io/badge/WebGL-blue" /> 
        <img src="https://img.shields.io/badge/Three.js-blue" /> 
